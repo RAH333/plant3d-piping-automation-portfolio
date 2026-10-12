@@ -1,3 +1,4 @@
+![]()
 # Plant 3D Piping Design & Automation Portfolio
 
 Professional portfolio showcasing production engineering workflows, automated design data processes, custom specifications management, and multi-disciplinary model coordination strategies for complex industrial plant environments.
