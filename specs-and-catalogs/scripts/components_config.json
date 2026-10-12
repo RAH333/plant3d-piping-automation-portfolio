@@ -1,0 +1,22 @@
+{
+  "specification": "CS300-Process-Spec",
+  "design_code": "ASME B31.3",
+  "pressure_rating": "Class 300",
+  "material_group": "Carbon Steel (ASTM A106 Gr. B / A105)",
+  "component_mappings": [
+    {
+      "component_type": "Gate Valve",
+      "size_range": "2\" to 24\"",
+      "standard": "API 600",
+      "end_connection": "Flanged RF",
+      "catalog_source": "ASME-Valves-Catalog.pcat"
+    },
+    {
+      "component_type": "Pipe Seamless",
+      "size_range": "0.5\" to 10\"",
+      "standard": "ASME B36.10",
+      "schedule": "Sch 40 / Sch 80",
+      "catalog_source": "ASME-CarbonSteel-Pipes.pcat"
+    }
+  ]
+}
